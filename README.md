@@ -33,10 +33,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dabuuraaa&theme=tokyonight" alt="streak stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dabuuraaa&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophy" />
-</p>
-
 ---
 
 <p align="center">
