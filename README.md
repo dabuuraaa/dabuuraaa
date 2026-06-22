@@ -1,25 +1,3 @@
-<h1 align="center">こんにちは、Ryosuke Ibusuki です 👋</h1>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=460&lines=Full+Stack+Developer+in+Japan;20+years+old;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dabuuraaa&label=Profile%20views&color=7aa2f7&style=flat" alt="profile views" />
-</p>
-
----
-
-## 🧑‍💻 About Me
-
-- 🇯🇵 日本でフルスタック Web 開発をしています
-- 🌱 いま学習中: **Next.js / Go / Kubernetes**
-- ⚡ Fun fact: Stargate が好きです 🛸
-
----
-
 ## 🛠 Tech Stack
 
 #### Languages
